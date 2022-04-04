@@ -1,6 +1,6 @@
 song="";
-scoreRightWrist=0;
-scoreLeftWrist=0;
+score_rightWrist=0;
+score_leftWrist=0;
 leftWristX=0;
 rightWristX=0;
 leftWristY=0;
